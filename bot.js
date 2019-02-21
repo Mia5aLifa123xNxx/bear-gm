@@ -210,12 +210,12 @@ client.on('message', fkk => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Cyhper Script By : DREAM`);
+      console.log(`Cyhper Script By : bearboy`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : bearboy ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Light Games`,"http://twitch.tv/Light")
+client.user.setGame(`bearboy`,"g.game")
 client.user.setStatus("dnd")
 });
 
